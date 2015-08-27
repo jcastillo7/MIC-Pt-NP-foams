@@ -1,13 +1,13 @@
 # Site settings
 
-title: Project Pages
+title: psp linkages Pt nanoporous foams
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/project-pages"
-url: "http://matin-hub.github.io"
-github_username:  matin-hub
-project_repository: project-pages
+email: mdekou3@gatech.edu
+description: "define the process strusture property linkage of platinum nanoporous foams using data science tools"
+baseurl: "/psp-linkages-Pt-foams"
+url: "http://mariedekou.github.io"
+github_username:  mariedekou
+project_repository: psp-linkages-Pt-foams
 
 # Build settings
 # Don't change these variables
