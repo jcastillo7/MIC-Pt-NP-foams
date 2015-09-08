@@ -52,7 +52,7 @@ tags: 		result
 
 Hover your pointer over the image to expand the view.
 
-![Description](/project-pages/img/Logo_Fairy_Tail_right.png)
+![Description](/img/Logo_Fairy_Tail_right.png)
 
 #Code:
 
