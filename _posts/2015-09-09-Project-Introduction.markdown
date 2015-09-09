@@ -22,6 +22,7 @@ Note: Figure A is pre-dealloying. Dealloying was done under a constant potential
 
 ###Isotropic open-cell
 
+img: https://40.media.tumblr.com/66b8b2ed053e3158fa5d8f7beeac0410/tumblr_nuf4l9IhL01rlqsr4o5_500.png
 ![Isotropic Open-cell](/img/Post_1/IsotropicMorphology.PNG)
 
 ###Columnar
