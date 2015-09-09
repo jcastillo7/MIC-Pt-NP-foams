@@ -1,4 +1,3 @@
-
 ---
 
 layout:     post
@@ -12,23 +11,23 @@ tags:
 
 # Proposed workflow:
 
-**This proposed workflow defines our projects steps from generating the needed data to defining the structure-property linkage.**
+This proposed workflow defines our projects steps from generating the needed data to defining the structure-property linkage.
 
-1. **Evaluate the available data. Determine how much more data is needed.**
+1. Evaluate the available data. Determine how much more data is needed.
 
-2. **Perform SEM/EBSD to generate more data (if needed)**
+2. Perform SEM/EBSD to generate more data (if needed)
 
-3. **Perform nanoedentation to generate the elastic properties**
+3. Perform nanoedentation to generate the elastic properties
 
-4. **Generate the metadata of the extracted material features**
+4. Generate the metadata of the extracted material features
 
-5. **Define the microstructure function from the state definition**
+5. Define the microstructure function from the state definition
 
-6. **Perform a 2-point statistic**
+6. Perform a 2-point statistic
 
-7. **Perform a PCA /dimension reduction**
+7. Perform a PCA /dimension reduction
 
-8. **Define the structure-property linkage**
+8. Define the structure-property linkage
 
 
 
