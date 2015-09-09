@@ -11,13 +11,14 @@ tags:
 
 # Proposed workflow:
 
-This proposed workflow defines our projects steps from generating the needed data to defining the structure-property linkage.
+This proposed workflow defines our projects steps from generating the needed data to defining the process-structure-property linkage.
 
-1. Evaluate the available data. Determine how much more data is needed.
+1. Evaluate the available data to determine how much more data is needed. For now we have SEM images from the samples.
+ img: img/data sample.jpg  
 
-2. Perform SEM/EBSD to generate more data (if needed)
+2. Perform SEM/EBSD to generate more data (if needed).
 
-3. Perform nanoedentation to generate the elastic properties
+3. Perform nanoedentation to generate the mechanical properties.
 
 4. Generate the metadata of the extracted material features
 
