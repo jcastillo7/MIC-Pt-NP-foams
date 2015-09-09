@@ -11,17 +11,20 @@ tags:
 
 # Proposed workflow:
 
-This proposed workflow defines our projects steps from generating the needed data to defining the process-structure-property linkage.
+This proposed workflow defines our projects steps from generating the needed data to defining the process-structure-property linkage.Our initial samples will be furnished by Dr Antonia Antoniou. 
 
 1. Evaluate the available data to determine how much more data is needed. For now we have SEM images from the samples.
- 
-  img: "img/data sample.jpg" 
 
-2. Perform SEM/EBSD to generate more data (if needed).
+![SEM images of NP foams] (https://41.media.tumblr.com/ee700bf9bb44fed86e70dd10279715c2/tumblr_nuf6xtQlxP1rlqsr4o1_540.jpg)
 
-3. Perform nanoedentation to generate the mechanical properties.
+2. Perform SEM/EBSD on the received samples to generate more microstructure data.The relative density (volume fraction of the solid) is a crucial characteristics. So we will use the density to quantify the microstructure. 
 
-4. Generate the metadata of the extracted material features
+3. Perform nanoedentation to generate the mechanical properties more specificly the elactic properties. The next image is an example of the work of A.Antoniou and her team. They showed that the NP metal foam modulus doesn't have a clear correlation with the relative density. 
+![NP foam modulus as function of the relative density] (https://41.media.tumblr.com/7c1ab89231851698822f5019ff9397d7/tumblr_nuf6xtQlxP1rlqsr4o2_400.jpg)
+
+So we will have to determine which mechanical property will best define the material. 
+
+4. Generate the metadata of the extracted material features. 
 
 5. Define the microstructure function from the state definition
 
@@ -32,8 +35,9 @@ This proposed workflow defines our projects steps from generating the needed dat
 8. Define the structure-property linkage
 
 
+##Sources
 
-
+Ran Liu, Antonia Antoniou, “A relationship between the geometrical structure of a nanoporous metal foam and its modulus” ,Acta Materialia, Volume 61, Issue 7, April 2013, Pages 2390-2402
 
 
 
