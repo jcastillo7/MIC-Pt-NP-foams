@@ -10,7 +10,7 @@ tags: 		Abstract, Introduction, Intro, Nanoporous, Platinum, NP-PT1
 #Introduction:
 
 Our overall goal in this project is to apply various statistical tools in order to establish process-structure-property linkages
-within a Nanoporous metal foam. Platinum Nanoporous foam (Pt-NP foam) is a species of nanoporous metal foams. The Pt-NP foam is synthesized through electrochemically dealloying 
+within a Nanoporous metal foam. Platinum Nanoporous foam (Pt-NP foam) is a species of nanoporous metal foams. The potential applciations of the Pt-NP foams include components within fuel cells and sensors as well as anitmicrobial scaffolds. The Pt-NP foam is synthesized through electrochemically dealloying 
 and using co-sputtered physical vapor deposition (PVD) on silicon wafers. The parameters controlled within this process were the negative
 substrate bias voltage in sputtering *V*, the thickness of the film layer *t*, and the concentration of Platinum in Platinum Silicide: $$ Pt_*x*Si_(1-*x*) $$ Where *x* = 0.1, 0.2, 0.35 ; *V*= 0,100,300 ; *t*=1um and 10um  
 
