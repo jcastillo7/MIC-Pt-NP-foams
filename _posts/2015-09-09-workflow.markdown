@@ -20,6 +20,7 @@ This proposed workflow defines our projects steps from generating the needed dat
 2. Perform SEM/EBSD on the received samples to generate more microstructure data.The relative density (volume fraction of the solid) is a crucial characteristics. So we will use the density to quantify the microstructure. 
 
 3. Perform nanoedentation to generate the mechanical properties more specificly the elactic properties. The next image is an example of the work of A.Antoniou and her team. They showed that the NP metal foam modulus doesn't have a clear correlation with the relative density. 
+
 ![NP foam modulus as function of the relative density] (https://41.media.tumblr.com/7c1ab89231851698822f5019ff9397d7/tumblr_nuf6xtQlxP1rlqsr4o2_400.jpg)
 
 So we will have to determine which mechanical property will best define the material. 
