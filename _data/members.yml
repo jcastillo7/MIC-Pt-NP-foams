@@ -1,13 +1,8 @@
 # Members
 
 - name: Andrew Castillo
-<<<<<<< HEAD
-  role: Mechanical Engineer / Material Informatics
-  img: castillomemberpic.jpg
-=======
   role: Data Scientist / Material Informatics
-  img: (/img/castillomemberpic.jpg)
->>>>>>> origin/gh-pages
+  img: "img/castillomemberpic.jpg"
   github: jcastillo7
   bio: Andrew Castillo is currently pursuing a PhD in Mechanical Engineering at the Georgia Institute of Technology.  He earned a bachelor’s degree in Mechanical Engineering with a concentration in the Mechanical Behavior of Materials at Georgia Tech in 2015. Andrew is currently involved in research in the fields of computational materials science and materials informatics. His current research focus involves exploring new protocols for the extraction of structural material properties through indentation. 
   url: http://jcastillo7.github.io/
