@@ -22,22 +22,21 @@ Note: Figure A is pre-dealloying. Dealloying was done under a constant potential
 
 ###Isotropic open-cell
 
-img: https://40.media.tumblr.com/66b8b2ed053e3158fa5d8f7beeac0410/tumblr_nuf4l9IhL01rlqsr4o5_500.png
-![Isotropic Open-cell](/img/Post_1/IsotropicMorphology.PNG)
+![Isotropic Open-cell](https://36.media.tumblr.com/883e202d795add98b0081ede57fd1757/tumblr_nuf4l9IhL01rlqsr4o1_540.png)
 
 ###Columnar
 
-![Columnar Morphology](/img/Post_1/ColumnarMorphology.PNG)
+![Columnar Morphology](https://40.media.tumblr.com/66b8b2ed053e3158fa5d8f7beeac0410/tumblr_nuf4l9IhL01rlqsr4o5_500.png)
 
 ###Voroni
 
-![Voroni Morphology](/img/Post_1/VoroniMorphology.PNG)
+![Voroni Morphology](https://40.media.tumblr.com/654ac6ba7c5b4462428f22b84f4209c7/tumblr_nuf4l9IhL01rlqsr4o4_1280.png)
 
 
 ##Empirical Process-Structure Relationship
 Below is a map generated to demonstrate possible structures resulting from the manipulating of the various process parameters described above.
  
-![Empirical Manufacturing Process](/img/Post_1/Manufacturing.PNG)
+![Empirical Manufacturing Process](https://40.media.tumblr.com/bf2d20fc5901dd5166959c13edccf3a2/tumblr_nuf4l9IhL01rlqsr4o2_1280.png)
 
 #Plan forward
 
