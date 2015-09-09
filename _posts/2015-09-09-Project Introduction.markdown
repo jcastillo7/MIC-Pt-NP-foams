@@ -45,7 +45,7 @@ Our goal proceeding forward is to first obtain structural mechanical properties 
 
 ##Sources
 
-Images and background information: *Controlled nanoporous Pt morphologies by varying deposition parameters* by Antonia Antoniou, Georgia Institute of Technology; Dhriti Bhattacharrya, LANL; J. Kevin Baldwin, LANL; Peter M. Goodwin, LANL; Michael A. Nastasi, LANL; S. Thomas Picraux, LANL; Amit Misra, LANL
+Images and background information: *Controlled nanoporous Pt morphologies by varying deposition parameters*, Antonia Antoniou, Georgia Institute of Technology; Dhriti Bhattacharrya, LANL; J. Kevin Baldwin, LANL; Peter M. Goodwin, LANL; Michael A. Nastasi, LANL; S. Thomas Picraux, LANL; Amit Misra, LANL
 
 Ran Liu, Antonia Antoniou, “A relationship between the geometrical structure of a nanoporous metal foam and its modulus” ,Acta Materialia, Volume 61, Issue 7, April 2013, Pages 2390-2402
 
