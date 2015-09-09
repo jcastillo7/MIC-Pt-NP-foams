@@ -14,7 +14,8 @@ tags:
 This proposed workflow defines our projects steps from generating the needed data to defining the process-structure-property linkage.
 
 1. Evaluate the available data to determine how much more data is needed. For now we have SEM images from the samples.
- img: img/data sample.jpg  
+ 
+  img: img/data sample.jpg  
 
 2. Perform SEM/EBSD to generate more data (if needed).
 
