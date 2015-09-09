@@ -1,7 +1,7 @@
 # Site settings
 
 title: PSP Linkages Pt Nanoporous Foams
-header-img: "img/new header.png"
+header-img: "img/new header.PNG"
 email: mdekou3@gatech.edu
 description: "define the process strusture property linkage of platinum nanoporous foams using data science tools"
 baseurl: "/psp-linkages-Pt-foams"
