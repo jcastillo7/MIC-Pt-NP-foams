@@ -14,7 +14,7 @@ within a Nanoporous metal foam. Platinum Nanoporous foam (Pt-NP foam) is a speci
 and using co-sputtered physical vapor deposition (PVD) on silicon wafers. The parameters controlled within this process were the negative
 substrate bias voltage in sputtering V, the thickness of the film layer u, and the concentration of platinum in Platinum Silicide: $$ Pt_xSi_(1-x) $$ Where V= 0,100,300 u=1um and 10um  x = 0.1, 0.2, 0.35
 
-#Understanding the Process
+#Common microstructures
 
 Previous work on platinum nanoporous foams has identified different morphologies dependent upon process parameters. The three major morphologies identified from manipulating the process parameters are 
 the isotropic open-cell, the columnar and the voroni morphologies identified at various length scales. 
