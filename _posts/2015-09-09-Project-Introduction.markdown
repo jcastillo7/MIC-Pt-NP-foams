@@ -16,7 +16,7 @@ substrate bias voltage in sputtering *V*, the thickness of the film layer *t*, a
 #Example Datasets:
 
 Previous work on platinum nanoporous foams has identified different morphologies identified through changing process parameters. The three major morphologies identified from manipulating the process parameters are 
-the isotropic open-cell, the columnar and the voroni morphologies identified at various length scales shown below. 
+the isotropic open-cell, the columnar and the voroni morphologies identified at various length scales shown below. It is important to note the initial focus on the project will be related to structure property linkages. The below photos provide familiarity with the structures/data expected to be analyzed.
 
 Note: Figure (a) for all is pre-dealloying. Dealloying was done under a constant potential 0.6V in an aqueous solution of 3% HF acid. 
 
