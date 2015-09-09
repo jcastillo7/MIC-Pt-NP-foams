@@ -2,7 +2,7 @@
 layout:     post
 title:      Project Introduction
 date:       2015-09-09 12:00:00
-author:     Andrew Castillo, Marie Dekou
+author:     Andrew Castillo
 tags: 		Abstract, Introduction, Intro, Nanoporous, Platinum, NP-PT1
 ---
 <!-- Start Writing Below in Markdown -->
