@@ -38,7 +38,7 @@ Below is a map generated to demonstrate possible structures resulting from the m
  
 ![Empirical Manufacturing Process](https://40.media.tumblr.com/bf2d20fc5901dd5166959c13edccf3a2/tumblr_nuf4l9IhL01rlqsr4o2_1280.png)
 
-#Plan forward
+#Plan going forward
 
 Our goal proceeding forward is to first obtain structural mechanical properties through the use of nanoindentation. SEM imaging will be performed and meta data generated using 2-pt statistics and a reductive technique such as PCA will be used to build a structure-property linkage. After this, a similar procedure will be applied to formulate process-structure linkages.
 
